@@ -51,7 +51,7 @@ const CardGenerator = ({ query }) => {
       >
        Play
       </Button>
-      <i className="bi bi-suit-heart ms-2"></i>
+      <i onClick="" className="bi bi-suit-heart ms-2"></i>
      </Col>
     ))}
   </Row>

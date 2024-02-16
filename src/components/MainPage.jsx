@@ -3,7 +3,7 @@ import CardGenerator from "./CardGenerator";
 const MainPage = () => {
  return (
   <>
-   <Container className="overflow-auto ps-5" fluid>
+   <Container fluid className="overflow-auto m-0 mb-5 pb-5">
     <Row className="row justify-content-evenly">
      <Col className="col-9 col-lg-11 d-none d-md-flex justify-content-center">
       <a className="text-secondary me-5" href="#">
